@@ -1,0 +1,9 @@
+https://www.w3schools.com/howto/howto_css_split_screen.asp
+
+https://www.w3schools.com/howto/howto_js_form_steps.asp
+
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapse_sidepanel
+
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_overlay
+
+http://javascript.info/animation

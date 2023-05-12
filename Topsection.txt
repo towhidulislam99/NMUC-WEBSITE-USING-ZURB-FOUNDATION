@@ -1,0 +1,119 @@
+<section class="topsection">
+<div class= "Topheader">
+<div class="top-bar-right">
+  </div>
+<div class="social">
+<i class="fa fa-rss"></i>
+<i class="fa fa-facebook"></i>
+<i class="fa fa-twitter"></i>
+<i class="fa fa-linkedin"></i>
+</div>
+</div>
+</section>
+
+
+
+
+.topsection{}
+
+/*top sectiopn Backgrount color*/
+.Topheader {
+    background-color: #130f40;
+    height: 45px;
+	
+}
+.topnav {
+  overflow: hidden;
+  background-color: #e9e9e9;
+}
+.topnav i {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+/*top sectiopn Logo Working Space*/
+.top-bar-right input{
+	margin-left: 3rem;
+	}
+.top-bar-right input[type=text] {
+ float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+
+
+
+
+.social{
+	float:left;
+	margin-left:150px;
+	padding:7px
+	}
+.social i{
+	font-size:30px;
+	color:#ffff;
+	margin-right:5px;
+	
+}
+
+
+
+
+<i class="fas fa-thumbtack"></i>
+<i class="fas fa-user-graduate"></i>
+<i class="fal fa-street-view"></i>
+<i class="fas fa-calendar-alt"></i>
+
+
+
+
+
+
+.top-bar-right input{
+	margin-left: 3rem;
+	}
+.top-bar-right input[type=text] {
+ float: left;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+
+
+
+
+
+.topnav i {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
